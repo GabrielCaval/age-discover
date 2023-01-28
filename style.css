@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 2.5rem;
+}
+
+img{
+    width: 20rem;
+    margin-top: 2.6rem;
+}
+
+h1{
+    font-size: 3.7rem;
+    margin-top: 1.2rem;
+}
+
+header > p{
+    font-size: 1.6rem;
+    font-weight: thin;
+    margin-block: 1.2rem;
+}
+
+main{
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.529);
+    font-size: 1.6rem;
+}
+
+main{
+    width: fit-content;
+    margin-inline: auto;
+    padding: 1.6rem;
+    
+}
+
+label{
+    display: block;
+}
+
+input{
+    height: 2.5rem;
+}
+
+#result{
+    margin-top: 1.6rem;
+}
+
+footer{
+    font-size: 1.6rem;
+    margin-top: 1.6rem;
+}
+
+span{
+    color: red;
+}
